@@ -6,7 +6,7 @@ require (
 	github.com/avast/retry-go v2.4.1+incompatible
 	github.com/aws/aws-sdk-go v1.25.0
 	github.com/evanphx/json-patch v4.5.0+incompatible // indirect
-	github.com/gogo/protobuf v1.3.0 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/googleapis/gnostic v0.3.1 // indirect
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/keikoproj/aws-sdk-go-cache v0.0.0-20200124200058-ab3c8c94044a
@@ -17,9 +17,8 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/crypto v0.0.0-20190927123631-a832865fa7ad // indirect
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45 // indirect
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
+	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9
 	golang.org/x/time v0.0.0-20190921001708-c4c64cad1fd0 // indirect
 	google.golang.org/appengine v1.6.4 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
